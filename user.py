@@ -59,3 +59,6 @@ print(customer_1.__dict__)
 
 cashier_1 = Cashier("Jasmine", "jasmine@internship.com",772)
 print(cashier_1.__dict__)
+
+
+## HELLO DEE Cohort 1
